@@ -1,7 +1,8 @@
 # Labour-Management-System
 
 Basic Job portal for all kinds of employees created as a part of the course curriculum. A person can see all the available jobs, apply for those jobs , create resume, see the available candidates etc.
-All the work was done using html, css, javascript, jquery and php.
+
+The Project was developed using HTML, Bootstrap-CSS, Javascript, jQuery, Php and MySql.
 
 ## Directory Structure.
 
