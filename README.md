@@ -6,7 +6,8 @@ All the work was done using html, css, javascript, jquery and php.
 ## Directory Structure.
 
   1. The Project folder contains the entire project.
-  2. The Documents folder contains all the industry level documentation created along with the project.
+  2. Within the project directory is a database folder containing the schema of database used for this project.
+  3. The Documents folder contains all the industry level documentation created along with the project.
   
 ## Main Features
 
