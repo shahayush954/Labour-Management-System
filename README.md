@@ -10,8 +10,11 @@ All the work was done using html, css, javascript, jquery and php.
   
 ## Main Features
 
-  1. Login
-  2. Signup.
+  1. Login as company or employee.
+  2. Signup as company or employee.
   3. Create Resume.
   4. Search for Jobs.
   5. Search jobs based on preferance, location, and other categories.
+  6. Appply for Jobs.
+  7. Post a job.
+  8. Review Applications.
